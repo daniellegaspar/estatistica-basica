@@ -76,7 +76,21 @@ Podemos denotar por ![image](https://github.com/daniellegaspar/estatistica-basic
 #### Exemplo de Escolaridade
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/04398f60-960c-41b2-8a39-795162381327)
 
-***Tabela de frequeência resume/sumariza os dados de uma variável nominal/orndinal. Trás uma leitura rápida dos dados, independente do tamanho da tabela.***
+
+***Tabela de frequência resume/sumariza os dados de uma variável nominal/orndinal. Trás uma leitura rápida dos dados, independente do tamanho da tabela.***
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/81427cca-4ac7-4def-9eed-b8c553fdbd32)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/ae186783-7178-497c-b75d-78f98c75367e)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/1ae5cdf9-5047-47f7-92c5-5887df11f5dc)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/9808820f-2991-486d-9912-efa3af0a77c9)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/7aa79fe2-9dfc-4d90-913f-91fdc4d9e023)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/72c9162b-c6b3-4443-956b-56fe7b0fae29)
+
 
 
 
