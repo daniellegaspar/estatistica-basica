@@ -92,12 +92,25 @@ Podemos denotar por ![image](https://github.com/daniellegaspar/estatistica-basic
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/72c9162b-c6b3-4443-956b-56fe7b0fae29)
 
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/aef92f2b-6028-4d57-9282-a380c7f4bc82)
+
 A média é uma medida de tendência central. Isto é, ela é o ponto mais próximo de todos os outros pontos do nosso conjunto de dados. Por este motivo, muitas vezes é utilizada para ser a representante do conjunto de dados.
 
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/affd116a-4134-4d04-992e-f604207479a8)
 
 ### Mediana
+A mediana considera a ordem dos valores e divide os dados em sua metade. Isto é, 50% dos valores são maiores que ela, e 50% dos valores são menores do que ela.
 
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/21cba619-5b0c-4359-80bf-a00950da6dce)
+
+Como temos uma quantidade de elementos par, o valor da medida está entre 8 e 12. Assim, podemos somar os dois valores e dividi-los por 2.
+
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/35a586b2-3ae2-4d0d-9d65-de5b2e8d8b51)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/0089c37d-3f5f-4723-ac5a-e0fdb1f5382d)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/97dc2dc3-d66d-4ee1-a31f-078c36ca3d5e)
+x* = x ordenado
 
 
 
