@@ -91,7 +91,12 @@ Podemos denotar por ![image](https://github.com/daniellegaspar/estatistica-basic
 
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/72c9162b-c6b3-4443-956b-56fe7b0fae29)
 
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/aef92f2b-6028-4d57-9282-a380c7f4bc82)
+A média é uma medida de tendência central. Isto é, ela é o ponto mais próximo de todos os outros pontos do nosso conjunto de dados. Por este motivo, muitas vezes é utilizada para ser a representante do conjunto de dados.
 
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/affd116a-4134-4d04-992e-f604207479a8)
+
+### Mediana
 
 
 
