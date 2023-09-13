@@ -1,3 +1,5 @@
+> ### Este resumo contém textos e imagens que foram retirados do material do curso de estatística básica ministrado pelo Téo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.
+
 ### Estatística
 Estatística é um conjunto de ferramentas utilizadas para cálculos que nos auxiliam a sumarizar e entender os dados. 
 Estes dados podem ter origem de uma população, experimentação, sistemas, pesquisas de opinião/política e outras fontes.
@@ -177,4 +179,3 @@ Quando há presença de pontos discrepantes, muito distantes da região central,
 
 
 
-*Alguns trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.*
