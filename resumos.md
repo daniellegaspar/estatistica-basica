@@ -118,6 +118,7 @@ A mediana é menos sensível a dados que se distanciam da maior concentração, 
 
 ### Quartis
 Os quartis dividem um conjunto de dados ordenados em quatro partes iguais.
+
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/d3b63e01-8079-4ea0-85c8-082618ef01a5)
 
 ### Moda
@@ -137,6 +138,43 @@ multimodal : existem vários valores/elementos mais comum.
 ### Mínimo e Máximo
 Ponto de Mínimo: O ponto de mínimo refere-se ao valor mais baixo em um conjunto de dados. É o número que possui o valor mais baixo entre todos os valores presentes.
 Ponto de Máximo: O ponto de máximo refere-se ao valor mais alto em um conjunto de dados. É o número que possui o valor mais alto entre todos os valores presentes.
+
+### Variância 
+Calcular a distância entre todos os pontos, mas considerando a melhor medida que temos, que é a média.
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/c34a4177-cf4e-41ff-85ef-a4da27a7e754)
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/50c66dd5-7a23-4b5c-b07e-0209418a0d5e)
+
+**Para Amostras muda um pouco:**
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/7d924868-23e5-4717-933b-76019ee9831d)
+
+### Desvio padrão 
+É a raiz quadrado da variância. Denotado por 𝛔 ou 𝙨. 
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/c7f24656-b79d-46bb-ae86-a8f441d3f8e8)
+
+### Amplitude
+A diferença entre o maior e o menor valor observado.
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/71aac295-166b-4dc6-9048-95739955ecae)
+
+Quando há presença de pontos discrepantes, muito distantes da região central, a amplitude é impactada. Além disso, não temos informações sobre a distribuição interna do conjunto de dados.
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/3be806a1-6de5-4c4f-a8e4-566e1906b21b)
+
+## Gráficos...
+
+
+
+
+
+
+
+
+
+
 
 
 *Alguns trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.*
