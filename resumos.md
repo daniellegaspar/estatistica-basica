@@ -115,4 +115,4 @@ x* = x ordenado
 
 
 
-**Alguns trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal teomewhy na twich [twitch.tv/teomewhy]**
+*Os trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.*
