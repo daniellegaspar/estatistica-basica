@@ -1,6 +1,8 @@
 ### Estatística
 Estatística é um conjunto de ferramentas utilizadas para cálculos que nos auxiliam a sumarizar e entender os dados. 
 Estes dados podem ter origem de uma população, experimentação, sistemas, pesquisas de opinião/política e outras fontes.
+Ciência dedicada à coleta, organização, análise e interpretação de dados para tomada de  decisão.
+
 
 
 #### Amostra vs População
@@ -112,7 +114,29 @@ Como temos uma quantidade de elementos par, o valor da medida está entre 8 e 12
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/97dc2dc3-d66d-4ee1-a31f-078c36ca3d5e)
 x* = x ordenado
 
+A mediana é menos sensível a dados que se distanciam da maior concentração, ela divide um conjunto de dados ordenados em dois partes iguais, enquanto a média busca sempre ter a menor distância entre todos os valores do conjunto de dados, assim, ela “corre” para os valores que estão se distanciando dos demais.
+
+### Quartis
+Os quartis dividem um conjunto de dados ordenados em quatro partes iguais.
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/d3b63e01-8079-4ea0-85c8-082618ef01a5)
+
+### Moda
+O valor / elemento que ocorre com maior frequência ou o valor/elemento mais comum em um conjunto de dados. A única medida de posição que pode ser usada para variáveis qualitativas. 
+Um conjunto de dados pode ser 
+
+amodal  : não existe um valor/elemento mais comum.
+
+unimodal : existe um valor/elemento mais comum.
+
+bimodal : existem 2 valores/elementos mais comum.
+
+multimodal : existem vários valores/elementos mais comum.
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/c93e3ade-50e4-40e6-9f2a-1d9063a83f3f)
+
+### Mínimo e Máximo
+Ponto de Mínimo: O ponto de mínimo refere-se ao valor mais baixo em um conjunto de dados. É o número que possui o valor mais baixo entre todos os valores presentes.
+Ponto de Máximo: O ponto de máximo refere-se ao valor mais alto em um conjunto de dados. É o número que possui o valor mais alto entre todos os valores presentes.
 
 
-
-*Os trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.*
+*Alguns trechos desse resumo como (imagens e textos) foram retirados do curso de estatística básica do Teo Calvo no canal [teomewhy](https://www.twitch.tv/teomewhy) na twich.*
