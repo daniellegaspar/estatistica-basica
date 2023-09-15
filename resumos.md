@@ -235,7 +235,50 @@ Mensura a relação linear entre duas variáveis quantitativas.
 - Gráfico de pizza ou qualquer gráfico com nome de comida;
 - Gráfico de radar.
 
-# Probabilidade...
+# Probabilidade
+
+### Eventos
+Um evento é o resultado observado de um experimento.
+
+-Experimento: Lançar uma moeda e observar qual lado ficou para cima
+Eventos possíveis: {Cara, Coroa}
+
+
+-Experimento: Entrevistar uma pessoa brasileira e anotar seu Estado de residência
+Eventos possíveis: {AC, AL, … , SE, TO}
+
+
+-Experimento: A nota um estudante de Estatística
+Eventos possíveis: ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/d696a97d-8696-4fac-a666-d8eb3cb6cb76)
+
+
+-Experimento: Lançar um dado e avaliar se o número da face superior é múltiplo de 3
+Eventos possíveis: {Verdadeiro, Falso}
+
+
+### Espaço Amostral ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/4938c7cf-8b1d-4e1f-b1d6-6455e990527e)
+
+É o espaço onde todas as possibilidades de evento podem ocorrer.
+
+Podemos entender que cada evento pertence a um espaço amostral, dentre tantos outros eventos.
+
+Experimento: Lançar uma moeda e observar qual lado ficou para cima
+
+Espaço Amostral: {Cara, Coroa}
+
+Experimento: Lançar dois dados e observar o resultado de ambos
+
+Espaço Amostral: 
+
+                {(1,1) , (1,2) … (1,6),
+
+			        (2,1) , (2,2) … (2,6),
+           
+			       …
+          
+			       (6,1) , (6,2) … (6,6)}
+
+          
 
 
 
