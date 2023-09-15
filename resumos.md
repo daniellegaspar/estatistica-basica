@@ -166,11 +166,76 @@ Quando há presença de pontos discrepantes, muito distantes da região central,
 
 ![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/3be806a1-6de5-4c4f-a8e4-566e1906b21b)
 
-## Gráficos...
+## Gráficos
+
+#### Gráfico de Barras
+Mais utilizado para dados qualitativos, a partir da tabela de frequência por exemplo.
+
+**Dica importante do Téo, jamais use o gráfico de pizza**
+
+#### Gráfico de Linhas
+Utilizado para séries históricas, representar dados quantitativos, normalmente ao longo do tempo. 
+
+#### Histograma
+Utilizado para representar a distribuição dos dados quantitativos. É um gráfico de barras organizado.
+No eixo x temos os valores ordenados.
+Cada barra representa um intervalo de dados. Ex.: salário de R$0,00 a R$9000,00...
+Temos uma frequência de observações que aparecem dentro desse intervalo.
+Com o histograma, muitas vezes fica mais simples de identificar a distribuição dos dados, e quais funções que pode gerá-los, além de ser mais intuitivo para pessoas não técnicas.
 
 
+E como definimos o intervalo/quantidade de bins?
+
+1º - Definir a quatidade de bins (intervalos)
+a. Regra de Sturges:
+
+b. Regra da raiz quadrada:
+
+c. Definir um valor arbitrário
+
+2º - Calcular a Frequência em cada um dos bins
+
+3º - Esboçar o gráfico
+
+*(log2 = logaritmo de n na base 2)*
+
+> No histograma o eixo x são os valores da variável
 
 
+#### Calcular quantidade de bins pela raiz quadrada:
+É a raiz quadrada da quantidade da variável + 1
+Ex: int(sqrt(count(intervalo células))+1) 
+
+
+#### Tamanho de cada intervalo
+Amplitude
+=max(intervalo células)-min(intervalo células)
+
+#### Tamanho Bin
+=amplitude / quantidade de bins
+
+
+#### Boxplot
+No boxplot a variável se encontra no eixo y. É um gráfico ideal para identificar outliers (pontos que se distanciam de maneira considerável da centralidade do conjunto de dados, ultrapassando o limite inferior ou superior.
+
+![image](https://github.com/daniellegaspar/estatistica-basica/assets/86385596/65e76bc6-1f6e-4cbd-b749-1c8b28f9aa23)
+
+**L.I = Q1 - 1,5 * IQR**
+**L.S = Q3 + 1,5 * IQR**
+
+**IQR = Q3 - Q1**
+
+
+#### Gráfico de dispersão
+Avaliar relação/associação entre duas variáveis.
+*correlação de Pearson*
+Mensura a relação linear entre duas variáveis quantitativas.
+
+## Gráficos PROIBIDOS
+- Gráfico de pizza ou qualquer gráfico com nome de comida;
+- Gráfico de radar.
+
+# Probabilidade...
 
 
 
